@@ -13,7 +13,7 @@ public class ProgressController {
 }
 
 
-# sql step
+#
 CREATE TABLE user_progress (
     id BIGINT AUTO_INCREMENT PRIMARY KEY,
     user_id BIGINT NOT NULL,
@@ -27,9 +27,9 @@ CREATE TABLE user_progress (
 
 
 
-Project #2 - Write a Java Program that determines if a string is a palindrome.
+Project #
 
-import java.util.Scanner;
+# import java.util.Scanner;
 
 public class Palindrome {
     public static void main(String[] args) {
