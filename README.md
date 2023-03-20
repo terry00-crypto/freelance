@@ -29,7 +29,7 @@ SQL Code
 
 
 
-Project #2
+Project #2 - Write a Java Program that determines if a string is a palindrome.
 
 import java.util.Scanner;
 
@@ -59,7 +59,8 @@ public class Palindrome {
 }
 
 
-Project #3
+Project #3 - Write a function that takes in an array of numbers and prints the
+combinations that add up to 10.
 
 public static void printCombinationsThatAddUpToTen(int[] arr) {
 
@@ -78,7 +79,8 @@ int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 printCombinationsThatAddUpToTen(arr); 
 
 
-Project #4
+Project #4 - Write a fully functioning java application that takes an integer as a command line argument
+n, and outputs the nth hexagonal number for the input?
 
 
 public class HexagonalNumber {
