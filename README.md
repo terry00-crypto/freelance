@@ -13,8 +13,8 @@ public class ProgressController {
 }
 
 
-#
-CREATE TABLE user_progress (
+
+#CREATE TABLE user_progress (
     id BIGINT AUTO_INCREMENT PRIMARY KEY,
     user_id BIGINT NOT NULL,
     question_id BIGINT NOT NULL,
@@ -27,9 +27,9 @@ CREATE TABLE user_progress (
 
 
 
-Project #
+Project #2
 
-# import java.util.Scanner;
+import java.util.Scanner;
 
 public class Palindrome {
     public static void main(String[] args) {
@@ -56,8 +56,7 @@ public class Palindrome {
 }
 
 
-Project #3 - Write a function that takes in an array of numbers and prints the
-combinations that add up to 10.
+Project #3
 
 public static void printCombinationsThatAddUpToTen(int[] arr) {
     int n = arr.length;
@@ -74,8 +73,7 @@ int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 printCombinationsThatAddUpToTen(arr);
 
 
-Project #4 – Write a fully functioning java application that takes an integer as a command line argument
-n, and outputs the nth hexagonal number for the input?
+Project #4
 
 
 public class HexagonalNumber {
