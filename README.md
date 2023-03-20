@@ -14,6 +14,7 @@ public class ProgressController {
 }
 
 
+SQL Code
 
 #CREATE TABLE user_progress (
     id BIGINT AUTO_INCREMENT PRIMARY KEY,
