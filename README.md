@@ -74,7 +74,7 @@ public static void printCombinationsThatAddUpToTen(int[] arr) {
 
 
 int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-printCombinationsThatAddUpToTen(arr); }
+printCombinationsThatAddUpToTen(arr); 
 
 
 Project #4
