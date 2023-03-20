@@ -58,7 +58,8 @@ public class Palindrome {
 
 Project #3
 
-public static void printCombinationsThatAddUpToTen(int[] arr) {
+public static void printCombinationsThatAddUpToTen(int[] arr)
+{
     int n = arr.length;
     for (int i = 0; i < n; i++) {
         for (int j = i + 1; j < n; j++) {
